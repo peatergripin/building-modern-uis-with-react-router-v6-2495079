@@ -1,5 +1,5 @@
 import { useLocation } from "react-router-dom";
-
+//
 export default function Confirmation() {
   const { state } = useLocation();
   return (
